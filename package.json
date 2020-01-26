@@ -1,0 +1,19 @@
+{
+  "name": "spotify-web-app",
+  "version": "1.0.0",
+  "description": "Just a personal web player for me, depending on time of day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm-start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishbhr/MyFavoriteWebPlayer.git"
+  },
+  "author": "Rishbh Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishbhr/MyFavoriteWebPlayer/issues"
+  },
+  "homepage": "https://github.com/rishbhr/MyFavoriteWebPlayer#readme"
+}
